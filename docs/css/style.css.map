@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.css","sourcesContent":[]}
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;EAClB,UAAU;EACV,WAAW;CACZ;;AAED;EACE,eAAe;CAChB","file":"style.css","sourcesContent":["body {\n  background: black;\n  margin: 0;\n  padding: 0;\n}\n\n#gamecontainer {\n  margin: 0 auto;\n}"]}

@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
 	"sourceSize": {"w":32,"h":58}
 },
-"walk-_left/Invasion_Wyatt_10.png":
+"walk_left/Invasion_Wyatt_10.png":
 {
 	"frame": {"x":35,"y":1,"w":32,"h":57},
 	"rotated": false,
@@ -16,7 +16,7 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
 	"sourceSize": {"w":32,"h":58}
 },
-"walk-_left/Invasion_Wyatt_11.png":
+"walk_left/Invasion_Wyatt_11.png":
 {
 	"frame": {"x":69,"y":1,"w":32,"h":57},
 	"rotated": false,
@@ -24,7 +24,7 @@
 	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
 	"sourceSize": {"w":32,"h":58}
 },
-"walk-_left/Invasion_Wyatt_12.png":
+"walk_left/Invasion_Wyatt_12.png":
 {
 	"frame": {"x":103,"y":1,"w":32,"h":57},
 	"rotated": false,

@@ -1,0 +1,108 @@
+{"frames": {
+
+"Invasion_Wyatt_1.png":
+{
+	"frame": {"x":1,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk-_left/Invasion_Wyatt_10.png":
+{
+	"frame": {"x":35,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk-_left/Invasion_Wyatt_11.png":
+{
+	"frame": {"x":69,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk-_left/Invasion_Wyatt_12.png":
+{
+	"frame": {"x":103,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_down/Invasion_Wyatt_2.png":
+{
+	"frame": {"x":137,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_down/Invasion_Wyatt_3.png":
+{
+	"frame": {"x":171,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_right/Invasion_Wyatt_4.png":
+{
+	"frame": {"x":205,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_right/Invasion_Wyatt_5.png":
+{
+	"frame": {"x":239,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_right/Invasion_Wyatt_6.png":
+{
+	"frame": {"x":273,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_up/Invasion_Wyatt_7.png":
+{
+	"frame": {"x":307,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_up/Invasion_Wyatt_8.png":
+{
+	"frame": {"x":341,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+},
+"walk_up/Invasion_Wyatt_9.png":
+{
+	"frame": {"x":375,"y":1,"w":32,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":57},
+	"sourceSize": {"w":32,"h":58}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wyatt_cycle.png",
+	"format": "RGBA8888",
+	"size": {"w":408,"h":59},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a26d1e02af852dd223bfdd078d181ed6:556e77f8f486a40c35162cb580e676c5:a7965a97219edfe2b0d91346447e1d27$"
+}
+}

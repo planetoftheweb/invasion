@@ -13,7 +13,7 @@ function create() {
   wyatt.anchor.set(0.5);
 
   cursors = game.input.keyboard.createCursorKeys();
-  var text = game.add.text(32, 32, 'Cursors to move. Shift + Up / Down to Rotate World', { fill: '#ffffff' });
+  // var text = game.add.text(32, 32, 'Cursors to move', { fill: '#ffffff' });
 
   //  Here we add a new animation called 'run'
   //  We haven't specified any frames because it's using every frame in the texture atlas
@@ -46,6 +46,6 @@ function update() {
 
 function render() {
 
-  game.debug.cameraInfo(game.camera, 32, 500);
+  //game.debug.cameraInfo(game.camera, 32, 500);
 
 }
